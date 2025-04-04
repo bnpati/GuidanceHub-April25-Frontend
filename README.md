@@ -65,7 +65,7 @@
   <section>
     <h2>Next Prototype Link</h2>
     <p>
-      <a href="[Next Prototype Link]" target="_blank">Next Prototype Link Here</a>
+      <a href="https://github.com/bnpati/GuidanceHub-April25-Frontend" target="_blank">Next Prototype Link will be added when completed</a>
     </p>
   </section>
 </body>
