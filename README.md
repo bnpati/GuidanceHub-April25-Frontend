@@ -34,6 +34,19 @@
     </ul>
   </section>
 
+  
+  <section>
+    <h2>Features</h2>
+    <ul>
+      <li>🧠 <strong>Custom AI Chatbot</strong>: Personalized chatbot for real-time mentoring and support.</li>
+      <li>📊 <strong>Interactive Dashboard</strong>: Track your mentoring progress and performance analytics.</li>
+      <li>📅 <strong>Scheduling Tool</strong>: Efficiently manage and plan mentor-mentee meetings.</li>
+      <li>📝 <strong>Resource Sharing</strong>: Share documents, guides, and other helpful resources seamlessly.</li>
+      <li>⚡ <strong>Responsive Design</strong>: Enjoy a smooth and accessible user experience on any device.</li>
+      <li>🔒 <strong>Secure Platform</strong>: Prioritizes user data privacy with top-tier security protocols.</li>
+    </ul>
+  </section>
+
   <section>
     <h2>Future Development</h2>
     <p>
